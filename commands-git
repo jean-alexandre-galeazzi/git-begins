@@ -3,3 +3,5 @@ git add <file>
 git commit -m "<message>"
 git push
 git pull
+git branch <branch-name>
+git checkout <branch-name>
