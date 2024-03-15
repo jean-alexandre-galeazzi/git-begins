@@ -1,4 +1,4 @@
 git clone https://github.com/jean-alexandre-galeazzi/git-begins
 git add <file>
 git commit -m "<message>"
-git push <remote_repository> <branch>
+git push
